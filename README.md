@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.11-blue) 
 ![Pytest](https://img.shields.io/badge/tests-passing-brightgreen) 
-![CI](https://github.com/<your-username>/calculator-ci-project/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/CAchacoso/calculator-ci-project/actions/workflows/ci.yml/badge.svg)
 
 A simple calculator application built in Python with automated testing using **pytest** and Continuous Integration (CI). This project demonstrates basic arithmetic operations using predefined equations and ensures code reliability through automated tests.
 
