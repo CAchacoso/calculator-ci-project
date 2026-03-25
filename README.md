@@ -26,7 +26,7 @@ A simple calculator application built in Python with automated testing using **p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/calculator-ci-project.git
+git clone https://github.com/CAchacoso/calculator-ci-project.git
 cd calculator-ci-project
 ```
 
